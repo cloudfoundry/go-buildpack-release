@@ -2,4 +2,6 @@
 builds:
   47a8468c-84be-4bc2-817c-45a2e22b228a:
     version: 1.7.14
+  a1b9104e-5ea0-4ccc-b072-e1c1df30c1d7:
+    version: 1.7.15
 format-version: '2'
