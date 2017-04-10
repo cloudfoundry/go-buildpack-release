@@ -12,4 +12,6 @@ builds:
     version: 1.7.18
   db227cb0-4897-49f7-aa41-44335c6b7f36:
     version: 1.7.19
+  6bf5440e-86c1-4c67-9401-1a51b1bf7510:
+    version: 1.8.0
 format-version: '2'
