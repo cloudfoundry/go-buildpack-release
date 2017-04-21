@@ -14,4 +14,6 @@ builds:
     version: 1.7.19
   6bf5440e-86c1-4c67-9401-1a51b1bf7510:
     version: 1.8.0
+  82409900-5104-477e-b588-745555803245:
+    version: 1.8.1
 format-version: '2'
