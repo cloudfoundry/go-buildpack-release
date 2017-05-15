@@ -1,5 +1,5 @@
 ---
-go-buildpack/go_buildpack-cached-v1.8.1.zip:
-  object_id: 88656608-a71e-44df-9813-c285f84b2f57
-  sha: c9b0c071c02c883be398048bb2a1ee7f2d20f021
-  size: 432884011
+go-buildpack/go_buildpack-cached-v1.8.2.zip:
+  object_id: 5db962be-2ac2-490d-9d6b-40c7aa210aff
+  sha: 5a3686c7265dd7d1ea9928b65515d202591af05b
+  size: 435298514
