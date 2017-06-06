@@ -18,4 +18,6 @@ builds:
     version: 1.8.1
   3c67a87e-020f-44d9-87e6-51d7d83a4c16:
     version: 1.8.2
+  b9d4fafd-54ef-4f59-bd59-a01e817a5306:
+    version: 1.8.4
 format-version: '2'
