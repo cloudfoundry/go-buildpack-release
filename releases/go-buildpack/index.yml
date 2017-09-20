@@ -24,4 +24,6 @@ builds:
     version: 1.8.5
   4f5c37d7-4fdb-4273-8c80-39e050c1e3be:
     version: 1.8.6
+  4bbdc597-0fd6-4623-bdbf-04631e1cf3d6:
+    version: 1.8.8
 format-version: '2'
