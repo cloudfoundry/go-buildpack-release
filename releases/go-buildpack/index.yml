@@ -28,4 +28,6 @@ builds:
     version: 1.8.8
   5add1cda-92fa-4f5a-ab66-41e03ca68b87:
     version: 1.8.11
+  bc2faa71-0bb3-4433-90c7-052199e39e20:
+    version: 1.8.13
 format-version: '2'
