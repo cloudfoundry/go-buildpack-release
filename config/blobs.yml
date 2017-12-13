@@ -1,4 +1,4 @@
-go-buildpack/go-buildpack-v1.8.14.zip:
-  size: 3817837
-  object_id: de66be26-6309-4e62-42f0-6ec8a18c4e6f
-  sha: ff77eea64abae05c0c7c16328cc6905586f9d7fe
+go-buildpack/go-buildpack-v1.8.15.zip:
+  size: 3821508
+  object_id: c721c6f3-f305-4a0e-50df-1bc5b9fec496
+  sha: eb48075025d98115b3fee51840f2ad1b3e45f4f6
