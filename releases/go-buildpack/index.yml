@@ -1,6 +1,8 @@
 builds:
   15be4de4-aa4c-4916-854c-e16cfa8638c6:
     version: 1.7.17
+  2c72c69a-57f1-4f08-7af9-b694f1b4524e:
+    version: 1.8.18
   3c67a87e-020f-44d9-87e6-51d7d83a4c16:
     version: 1.8.2
   47a8468c-84be-4bc2-817c-45a2e22b228a:

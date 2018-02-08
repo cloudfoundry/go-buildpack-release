@@ -1,0 +1,19 @@
+name: go-buildpack
+version: 1.8.18
+commit_hash: 2685ade
+uncommitted_changes: false
+jobs:
+- name: go-buildpack
+  version: 1b3dd6154fd683285d74c4f7606a0e26b9a77f2d
+  fingerprint: 1b3dd6154fd683285d74c4f7606a0e26b9a77f2d
+  sha1: a04e451cb500ba2ab8c4c55e1fb1967393761e24
+packages:
+- name: go-buildpack
+  version: aa5b8d76693ba377dd54e4c27c9ac45ea555291f
+  fingerprint: aa5b8d76693ba377dd54e4c27c9ac45ea555291f
+  sha1: ab5e8cab3ca1722c2af804fa7d7d0b20b6874bc4
+  dependencies: []
+license:
+  version: 6083d3c4eed62bf9f5ac08eb1cfce9b6d1fd2df4
+  fingerprint: 6083d3c4eed62bf9f5ac08eb1cfce9b6d1fd2df4
+  sha1: 7e8161f22ebb7a4daf2b3b2cd255a53e3db58f9b
