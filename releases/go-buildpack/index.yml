@@ -37,4 +37,6 @@ builds:
     version: 1.7.19
   f3688eef-56d0-44a2-a095-b467cc200f0a:
     version: 1.7.16
+  f6a2861e-47bc-4fec-47b0-94556aa84434:
+    version: 1.8.19
 format-version: "2"
