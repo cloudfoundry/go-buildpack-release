@@ -1,0 +1,4 @@
+---
+name: go-buildpack-cflinuxfs3
+files:
+- go-buildpack/go?buildpack-cflinuxfs3-*.zip

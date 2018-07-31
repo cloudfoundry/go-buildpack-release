@@ -3,6 +3,7 @@ name: go-buildpack
 templates: {}
 
 packages:
-- go-buildpack
+- go-buildpack-cflinuxfs2
+- go-buildpack-cflinuxfs3
 
 properties: {}
