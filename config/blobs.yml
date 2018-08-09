@@ -1,4 +1,8 @@
-go-buildpack/go-buildpack-v1.8.25.zip:
-  size: 3882006
-  object_id: cda3ab3e-e571-4b95-5619-c02c6669f699
-  sha: 48d0a674bbd5aec6994a01c82b3bcf2a36a675b0
+go-buildpack/go-buildpack-cflinuxfs2-v1.8.26.zip:
+  size: 3882073
+  object_id: ab34d84f-c6a6-488a-4942-e410414b0573
+  sha: 71669156a25b66bfafefa03b3ae4e09e92860f86
+go-buildpack/go-buildpack-cflinuxfs3-v1.8.26.zip:
+  size: 3881867
+  object_id: 6faaf113-f91a-4180-46c4-49c5bfea8b33
+  sha: 14588c4c48b96c1553c682b17b0f4906d5e13acc
