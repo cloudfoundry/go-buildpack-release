@@ -37,6 +37,8 @@ builds:
     version: 1.7.15
   a20f14bf-c084-46e6-befd-537265fd231b:
     version: 1.7.18
+  b02ea31e-e61e-4a8a-724a-32d22a6aff84:
+    version: 1.8.30
   b9d4fafd-54ef-4f59-bd59-a01e817a5306:
     version: 1.8.4
   bc2faa71-0bb3-4433-90c7-052199e39e20:
