@@ -67,6 +67,8 @@ builds:
     version: 1.8.5
   db227cb0-4897-49f7-aa41-44335c6b7f36:
     version: 1.7.19
+  e03460f1-9c6c-4b7f-6e7c-df40934a1eae:
+    version: 1.9.3
   e86549ee-5bc1-4931-7218-ff877f23a279:
     version: 1.8.29
   f3688eef-56d0-44a2-a095-b467cc200f0a:
