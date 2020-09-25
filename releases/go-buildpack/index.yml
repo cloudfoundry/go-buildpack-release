@@ -73,6 +73,8 @@ builds:
     version: 1.9.13
   b02ea31e-e61e-4a8a-724a-32d22a6aff84:
     version: 1.8.30
+  b85104f1-65bc-423f-7790-f0ab787c286c:
+    version: 1.9.19
   b8a8fece-4b92-46b7-792d-d8e06de45c4b:
     version: 1.9.1
   b9d4fafd-54ef-4f59-bd59-a01e817a5306:
