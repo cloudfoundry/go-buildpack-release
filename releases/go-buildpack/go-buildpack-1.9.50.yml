@@ -1,0 +1,21 @@
+name: go-buildpack
+version: 1.9.50
+commit_hash: 8ef7a1d
+uncommitted_changes: false
+jobs:
+- name: go-buildpack
+  version: c92a987a3c611553e2f36a323f7bbea9340d53088e20a444ff4af9bb2ef880d8
+  fingerprint: c92a987a3c611553e2f36a323f7bbea9340d53088e20a444ff4af9bb2ef880d8
+  sha1: sha256:3595a48107809eb0df154850838d3748f435b7e33deb3f78279c3808ed6d798c
+  packages:
+  - go-buildpack-cflinuxfs3
+packages:
+- name: go-buildpack-cflinuxfs3
+  version: 21fe23a9b129ad80afcfce18703a68388214a70a2cc6b8e823d0a50aad35a879
+  fingerprint: 21fe23a9b129ad80afcfce18703a68388214a70a2cc6b8e823d0a50aad35a879
+  sha1: sha256:0027448a1513354c14c21ca12e6bd57ca39748ec64ff85ea1f36fe9a3e0f6165
+  dependencies: []
+license:
+  version: b8a675d2320bb49c44ee34a923c75e20c301640a3bae4134563f4f424d7e1796
+  fingerprint: b8a675d2320bb49c44ee34a923c75e20c301640a3bae4134563f4f424d7e1796
+  sha1: sha256:4b7319ecfc45174efcb9cc703775311e255817a297f33f7f2870d652ec555a26
