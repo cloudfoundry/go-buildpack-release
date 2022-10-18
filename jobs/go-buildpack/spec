@@ -4,5 +4,6 @@ templates: {}
 
 packages:
 - go-buildpack-cflinuxfs3
+- go-buildpack-cflinuxfs4
 
 properties: {}

@@ -1,0 +1,4 @@
+---
+name: go-buildpack-cflinuxfs4
+files:
+- go-buildpack/go?buildpack-cflinuxfs4-*.zip
