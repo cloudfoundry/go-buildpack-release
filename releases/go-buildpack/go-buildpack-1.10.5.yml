@@ -1,0 +1,27 @@
+name: go-buildpack
+version: 1.10.5
+commit_hash: c2eed24
+uncommitted_changes: false
+jobs:
+- name: go-buildpack
+  version: fcf6fa996e56f20d6bd3456c6013c533cebf693c490e18fa74a08e084841ed59
+  fingerprint: fcf6fa996e56f20d6bd3456c6013c533cebf693c490e18fa74a08e084841ed59
+  sha1: sha256:a4450c69a6ff9cbdcc38758a1ec613330ec3bb0c14cf4a713900c2adff7cfbfb
+  packages:
+  - go-buildpack-cflinuxfs3
+  - go-buildpack-cflinuxfs4
+packages:
+- name: go-buildpack-cflinuxfs3
+  version: 18151074854d4cf1044f55068a835b9737e2326dfc5c8c26b6053b8fa1d7b5e6
+  fingerprint: 18151074854d4cf1044f55068a835b9737e2326dfc5c8c26b6053b8fa1d7b5e6
+  sha1: sha256:2483142c3f32fc26466f9e36ca43b55ae6d04dc8160493bb1ab98fc876c21c0e
+  dependencies: []
+- name: go-buildpack-cflinuxfs4
+  version: 42c8302603a322e26c62a68e8726aa865ca61efdcf51f477a30605cb062bb522
+  fingerprint: 42c8302603a322e26c62a68e8726aa865ca61efdcf51f477a30605cb062bb522
+  sha1: sha256:8795ba9dd99e57b1da7fa234e37870350f6684aabf8c2c31bb178a360e36a557
+  dependencies: []
+license:
+  version: b8a675d2320bb49c44ee34a923c75e20c301640a3bae4134563f4f424d7e1796
+  fingerprint: b8a675d2320bb49c44ee34a923c75e20c301640a3bae4134563f4f424d7e1796
+  sha1: sha256:4b7319ecfc45174efcb9cc703775311e255817a297f33f7f2870d652ec555a26
