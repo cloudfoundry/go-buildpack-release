@@ -2,7 +2,7 @@ go-buildpack/go_buildpack-cflinuxfs3-v1.10.27.zip:
   size: 5614948
   object_id: 2f54d96c-bff3-4730-5c29-dfd2a7a0ea35
   sha: sha256:d0fd04ef6ba4c28c5c40bdb9dc30845f7fcd452d2fbbccbdeb185855a8a535b3
-go-buildpack/go_buildpack-cflinuxfs4-v1.10.35.zip:
-  size: 5892358
-  object_id: ba9f6f08-856f-43ce-7f71-2351b4ad215b
-  sha: sha256:a9df3717dd6e61534aa0f1580ffa07f655ee4da8b224e1d079e9c9c64acd88b2
+go-buildpack/go_buildpack-cflinuxfs4-v1.10.36.zip:
+  size: 5892949
+  object_id: 94426722-260b-4599-4c6c-4cdcfdf2b661
+  sha: sha256:9fdae1615391505abfada4492e285ebab7aa5e01ec7cef36ad5ed15001fa0686
